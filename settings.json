@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "24/7 BOT",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "24/7 BOT",
+    "password": "sixseven",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
-    "try-creative": false
+    "ip": "sGhostopserver.aternos.me",
+    "port": 39027,
+    "version": "1.21.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "sixsenven"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 2000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "hi",
+        "guys what you doing",
+        "who want to make team with me?"
       ]
     },
     "chat-log": true,
